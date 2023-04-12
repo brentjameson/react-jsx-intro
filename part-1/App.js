@@ -20,5 +20,3 @@ const App = () => (
 // root.render(<App />);
 
 ReactDOM.render(<App />, document.getElementById("root") )
-
-console.log('are we still up and running')
